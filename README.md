@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VfT8U4Cl)
 
 ## Hack & Stock
-Introducing Hack&Stock, your ultimate trading companion with a twist! Hack&Stock offers personalized trading tips tailored to your unique profile and recent stock interaction. But that's not all – through snake game and quiz can learn valuable insights while having fun AND you can even earn free stocks! Download the Hack&Stock and you will be entertained, motivated and educated.
+Introducing Hack&Stock, your ultimate trading companion with a twist! Hack&Stock offers personalized trading tips tailored to your unique profile. But that's not all – through snake game and quiz you can learn valuable insights while having fun! Download the Hack&Stock and you will be entertained, motivated and educated.
 
 ### Core functionality: 
 - View your stack portfolio and current state of shares
